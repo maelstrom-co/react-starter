@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/maelstrom-co/maelstrom",
-  "revision": "9880504e053b32b0fffa8f2812dc0851f0254e5a",
+  "revision": "d3be546b63aa67c8044ae8f2035ab79cd9428b82",
   "workingDirectory": "Maelstrom repository root",
   "updateCommand": "bun apps/docs/tools/skills/export-distributions.ts <empty-output-directory> <source-commit-sha>",
   "directory": "apps/docs/starters/react"
